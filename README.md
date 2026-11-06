@@ -4,7 +4,9 @@
 
 **Repos Dashboard** — tự động cập nhật
 
-[![Dashboard](https://img.shields.io/badge/📊_Xem_chi_tiết-blue?style=for-the-badge)](https://HTL2910.github.io/github-repos-dashboard/)
+[![Dashboard](https://img.shields.io/badge/📊_Xem_Dashboard_đầy_đủ-blue?style=for-the-badge)](https://HTL2910.github.io/github-repos-dashboard/)
+
+[![Source](https://img.shields.io/badge/🔧_Quản_lý_Dashboard-green?style=for-the-badge)](https://github.com/HTL2910/github-repos-dashboard)
 
 </div>
 
