@@ -20,10 +20,10 @@
 
 ### Nhóm chính
 
-- 🎮 Unity / Game: **17**
-- 📁 Other: **9**
-- 🤖 AI / ML: **6**
-- 🌐 Web / Frontend: **1**
+- 🎮 Unity / Game: **19**
+- 🤖 AI / ML: **8**
+- 🌐 Web / Frontend: **4**
+- 📁 Other: **2**
 
 ---
 
