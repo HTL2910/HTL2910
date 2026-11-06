@@ -1,27 +1,26 @@
 <div align="center">
 
-# Hà Thành Long
+# HTL2910
 
-**Game Developer · AI Enthusiast · Unity · C#**
+**Repos Dashboard** — tự động cập nhật
 
-[![Dashboard](https://img.shields.io/badge/📊_Xem_tất_cả_repo-blue?style=for-the-badge)](https://htl2910.github.io/github-repos-dashboard/)
+[![Dashboard](https://img.shields.io/badge/📊_Xem_chi_tiết-blue?style=for-the-badge)](https://HTL2910.github.io/github-repos-dashboard/)
 
 </div>
 
 ---
 
-### 🔗 Quick Links
+**Tổng**: 33 repos  
+**Ngôn ngữ chính**: `C#` `ShaderLab` `Python` `HTML` `TypeScript`  
+**Cập nhật**: 2026-11-06
 
-- **[Repos Dashboard](https://htl2910.github.io/github-repos-dashboard/)** — tổng hợp tất cả repo, biểu đồ, knowledge graph
-- [GitHub](https://github.com/HTL2910)
-- [Itch.io](https://hathanhlong2910.itch.io)
+### Nhóm chính
+
+- 🎮 Unity / Game: **17**
+- 📁 Other: **9**
+- 🤖 AI / ML: **6**
+- 🌐 Web / Frontend: **1**
 
 ---
 
-### 📊 Đang làm gì?
-
-Xem chi tiết tại **[Dashboard](https://htl2910.github.io/github-repos-dashboard/)** — có phân nhóm Unity / AI / Web, biểu đồ kỹ năng và danh sách repo cập nhật.
-
----
-
-*Profile này được tạo để giúp người xem nắm nhanh các dự án và kỹ năng.*
+*Profile được tự động cập nhật từ [github-repos-dashboard](https://github.com/HTL2910/github-repos-dashboard)*
