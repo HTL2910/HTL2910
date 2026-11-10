@@ -77,6 +77,17 @@ flowchart LR
 | [education](https://github.com/HTL2910/education) | C# | 2025-12-20 | 1 | 🎮 Unity / Game |
 | [Environmental-Education](https://github.com/HTL2910/Environmental-Education) | C# | 2025-12-20 | 1 | 🎮 Unity / Game |
 
+## `> contribution snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HTL2910/HTL2910/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/HTL2910/HTL2910/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
 <div align="center">
 
 [![Update Profile](https://img.shields.io/badge/🔄_Update_Profile-success?style=for-the-badge)](https://github.com/HTL2910/github-repos-dashboard/actions/workflows/update-dashboard.yml)
