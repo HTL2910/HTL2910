@@ -41,9 +41,9 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100440)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100443)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100440)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100443)
 
 </div>
 
@@ -51,7 +51,7 @@ flowchart LR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611100440)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611100443)
 
 </div>
 
@@ -71,8 +71,8 @@ flowchart LR
 
 | Repo | Language | Updated | Stars | Category |
 |------|----------|---------|-------|----------|
-| [HTL2910](https://github.com/HTL2910/HTL2910) | - | 2026-11-10 | 0 | 📁 Other |
 | [github-repos-dashboard](https://github.com/HTL2910/github-repos-dashboard) | HTML | 2026-11-10 | 1 | 🌐 Web / Frontend |
+| [HTL2910](https://github.com/HTL2910/HTL2910) | - | 2026-11-10 | 0 | 📁 Other |
 | [AWS-AI-chatbot](https://github.com/HTL2910/AWS-AI-chatbot) | TypeScript | 2026-11-04 | 0 | 🌐 Web / Frontend |
 | [bang-cards-deck](https://github.com/HTL2910/bang-cards-deck) | TypeScript | 2026-11-01 | 0 | 🌐 Web / Frontend |
 | [Wocel](https://github.com/HTL2910/Wocel) | C# | 2026-10-08 | 0 | 🎮 Unity / Game |
