@@ -41,9 +41,9 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100420)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100437)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100420)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100437)
 
 </div>
 
@@ -51,7 +51,7 @@ flowchart LR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611100420)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611100437)
 
 </div>
 
