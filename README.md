@@ -35,6 +35,26 @@
 - 🌐 Web / Frontend: **4**
 - 📁 Other: **2**
 
+### Recent Repositories
+
+| Repo | Language | Updated | Stars | Category |
+|------|----------|---------|-------|----------|
+| [github-repos-dashboard](https://github.com/HTL2910/github-repos-dashboard) | HTML | 2026-11-10 | 1 | 🌐 Web / Frontend |
+| [HTL2910](https://github.com/HTL2910/HTL2910) | - | 2026-11-10 | 0 | 📁 Other |
+| [AWS-AI-chatbot](https://github.com/HTL2910/AWS-AI-chatbot) | TypeScript | 2026-11-04 | 0 | 🌐 Web / Frontend |
+| [bang-cards-deck](https://github.com/HTL2910/bang-cards-deck) | TypeScript | 2026-11-01 | 0 | 🌐 Web / Frontend |
+| [Wocel](https://github.com/HTL2910/Wocel) | C# | 2026-10-08 | 0 | 🎮 Unity / Game |
+| [hypit](https://github.com/HTL2910/hypit) | - | 2026-10-05 | 0 | 🤖 AI / ML |
+| [Echo-of-the-Void](https://github.com/HTL2910/Echo-of-the-Void) | C# | 2026-09-26 | 0 | 🎮 Unity / Game |
+| [Full-Stack-Data-Science---Machine-Learning-BootCamp-Course](https://github.com/HTL2910/Full-Stack-Data-Science---Machine-Learning-BootCamp-Course) | Jupyter Notebook | 2026-09-25 | 0 | 🤖 AI / ML |
+| [shorts](https://github.com/HTL2910/shorts) | Python | 2026-09-10 | 0 | 🤖 AI / ML |
+| [Interview-Project](https://github.com/HTL2910/Interview-Project) | Python | 2026-07-30 | 0 | 🤖 AI / ML |
+| [education](https://github.com/HTL2910/education) | C# | 2025-12-20 | 1 | 🎮 Unity / Game |
+| [Environmental-Education](https://github.com/HTL2910/Environmental-Education) | C# | 2025-12-20 | 1 | 🎮 Unity / Game |
+| [Farm](https://github.com/HTL2910/Farm) | C# | 2025-09-07 | 0 | 🎮 Unity / Game |
+| [Chay-Code](https://github.com/HTL2910/Chay-Code) | Python | 2025-08-29 | 0 | 🤖 AI / ML |
+| [SaveDataUnity](https://github.com/HTL2910/SaveDataUnity) | ShaderLab | 2025-08-23 | 0 | 🎮 Unity / Game |
+
 ---
 
 <div align="center">
