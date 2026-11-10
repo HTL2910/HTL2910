@@ -71,8 +71,8 @@ flowchart LR
 
 | Repo | Language | Updated | Stars | Category |
 |------|----------|---------|-------|----------|
-| [github-repos-dashboard](https://github.com/HTL2910/github-repos-dashboard) | HTML | 2026-11-10 | 1 | 🌐 Web / Frontend |
 | [HTL2910](https://github.com/HTL2910/HTL2910) | - | 2026-11-10 | 0 | 📁 Other |
+| [github-repos-dashboard](https://github.com/HTL2910/github-repos-dashboard) | HTML | 2026-11-10 | 1 | 🌐 Web / Frontend |
 | [AWS-AI-chatbot](https://github.com/HTL2910/AWS-AI-chatbot) | TypeScript | 2026-11-04 | 0 | 🌐 Web / Frontend |
 | [bang-cards-deck](https://github.com/HTL2910/bang-cards-deck) | TypeScript | 2026-11-01 | 0 | 🌐 Web / Frontend |
 | [Wocel](https://github.com/HTL2910/Wocel) | C# | 2026-10-08 | 0 | 🎮 Unity / Game |
