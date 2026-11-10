@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&lines=Building+Unity+games+%26+interactive+experiences;Exploring+AI%2C+ML+%26+automation+tools;Creating+useful+side+projects+and+dashboards)](https://git.io/typing-svg)
 
-<a href="https://github.com/HTL2910"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/HTL2910"><img src="https://img.shields.io/badge/GitHub-HTL2910-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/hathanhlong2002"><img src="https://img.shields.io/badge/GitHub-hathanhlong2002-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://HTL2910.github.io/github-repos-dashboard/"><img src="https://img.shields.io/badge/📊_View_Dashboard-blue?style=for-the-badge"></a>
 <img src="https://komarev.com/ghpvc/?username=HTL2910&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS">
 
@@ -50,11 +51,23 @@ flowchart LR
 
 ## `> github stats`
 
+### Main Account (HTL2910)
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+### Second Account (hathanhlong2002)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hathanhlong2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hathanhlong2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -68,7 +81,7 @@ flowchart LR
 
 ## `> stats`
 
-**Total repositories**: 33  
+**Total repositories (HTL2910)**: 33  
 **Last updated**: 2026-11-10
 
 ### Categories
