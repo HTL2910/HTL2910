@@ -41,9 +41,9 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611160602)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611221435)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611160602)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611221435)
 
 </div>
 
@@ -51,19 +51,19 @@ flowchart LR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611160602)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611221435)
 
 </div>
 
 ## `> stats`
 
-**Total repositories**: 33  
-**Last updated**: 2026-11-16
+**Total repositories**: 36  
+**Last updated**: 2026-11-22
 
 ### Categories
 
 - 🎮 Unity / Game: **19**
-- 🤖 AI / ML: **8**
+- 🤖 AI / ML: **11**
 - 🌐 Web / Frontend: **4**
 - 📁 Other: **2**
 
@@ -71,6 +71,9 @@ flowchart LR
 
 | Repo | Language | Updated | Stars | Category |
 |------|----------|---------|-------|----------|
+| [muse-1-vn-address-autofill](https://github.com/HTL2910/muse-1-vn-address-autofill) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
+| [muse-2-multi-account-video-stats](https://github.com/HTL2910/muse-2-multi-account-video-stats) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
+| [laya_address_vn](https://github.com/HTL2910/laya_address_vn) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
 | [HTL2910](https://github.com/HTL2910/HTL2910) | - | 2026-11-10 | 0 | 📁 Other |
 | [github-repos-dashboard](https://github.com/HTL2910/github-repos-dashboard) | HTML | 2026-11-10 | 1 | 🌐 Web / Frontend |
 | [AWS-AI-chatbot](https://github.com/HTL2910/AWS-AI-chatbot) | TypeScript | 2026-11-04 | 0 | 🌐 Web / Frontend |
@@ -80,9 +83,6 @@ flowchart LR
 | [Echo-of-the-Void](https://github.com/HTL2910/Echo-of-the-Void) | C# | 2026-09-26 | 0 | 🎮 Unity / Game |
 | [Full-Stack-Data-Science---Machine-Learning-BootCamp-Course](https://github.com/HTL2910/Full-Stack-Data-Science---Machine-Learning-BootCamp-Course) | Jupyter Notebook | 2026-09-25 | 0 | 🤖 AI / ML |
 | [shorts](https://github.com/HTL2910/shorts) | Python | 2026-09-10 | 0 | 🤖 AI / ML |
-| [Interview-Project](https://github.com/HTL2910/Interview-Project) | Python | 2026-07-30 | 0 | 🤖 AI / ML |
-| [education](https://github.com/HTL2910/education) | C# | 2025-12-20 | 1 | 🎮 Unity / Game |
-| [Environmental-Education](https://github.com/HTL2910/Environmental-Education) | C# | 2025-12-20 | 1 | 🎮 Unity / Game |
 
 ## `> contribution snake`
 
