@@ -41,9 +41,9 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611221435)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611230714)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611221435)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611230714)
 
 </div>
 
@@ -51,26 +51,29 @@ flowchart LR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611221435)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611230714)
 
 </div>
 
 ## `> stats`
 
-**Total repositories**: 36  
-**Last updated**: 2026-11-22
+**Total repositories**: 39  
+**Last updated**: 2026-11-23
 
 ### Categories
 
 - 🎮 Unity / Game: **19**
-- 🤖 AI / ML: **11**
-- 🌐 Web / Frontend: **4**
+- 🤖 AI / ML: **12**
+- 🌐 Web / Frontend: **6**
 - 📁 Other: **2**
 
 ## `> recent repos`
 
 | Repo | Language | Updated | Stars | Category |
 |------|----------|---------|-------|----------|
+| [FPS-Zombie-Suong-Mu](https://github.com/HTL2910/FPS-Zombie-Suong-Mu) | JavaScript | 2026-11-22 | 0 | 🌐 Web / Frontend |
+| [Dungeon-Survivor-3D](https://github.com/HTL2910/Dungeon-Survivor-3D) | JavaScript | 2026-11-22 | 0 | 🌐 Web / Frontend |
+| [muse-3-vn-realtime-voice-agent](https://github.com/HTL2910/muse-3-vn-realtime-voice-agent) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
 | [muse-1-vn-address-autofill](https://github.com/HTL2910/muse-1-vn-address-autofill) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
 | [muse-2-multi-account-video-stats](https://github.com/HTL2910/muse-2-multi-account-video-stats) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
 | [laya_address_vn](https://github.com/HTL2910/laya_address_vn) | Python | 2026-11-22 | 0 | 🤖 AI / ML |
@@ -80,9 +83,6 @@ flowchart LR
 | [bang-cards-deck](https://github.com/HTL2910/bang-cards-deck) | TypeScript | 2026-11-01 | 0 | 🌐 Web / Frontend |
 | [Wocel](https://github.com/HTL2910/Wocel) | C# | 2026-10-08 | 0 | 🎮 Unity / Game |
 | [hypit](https://github.com/HTL2910/hypit) | - | 2026-10-05 | 0 | 🤖 AI / ML |
-| [Echo-of-the-Void](https://github.com/HTL2910/Echo-of-the-Void) | C# | 2026-09-26 | 0 | 🎮 Unity / Game |
-| [Full-Stack-Data-Science---Machine-Learning-BootCamp-Course](https://github.com/HTL2910/Full-Stack-Data-Science---Machine-Learning-BootCamp-Course) | Jupyter Notebook | 2026-09-25 | 0 | 🤖 AI / ML |
-| [shorts](https://github.com/HTL2910/shorts) | Python | 2026-09-10 | 0 | 🤖 AI / ML |
 
 ## `> contribution snake`
 
