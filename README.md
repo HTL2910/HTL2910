@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=4F46E5&center=true&vCenter=true&repeat=true&width=680&lines=Hi%2C%20I%27m%20H%C3%A0%20Th%C3%A0nh%20Long;Unity%20%2F%20Game%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Web%20%2F%20Frontend;43%20Public%20%26%2035%20Private%20Projects;Open%20to%20Collaboration%20%26%20Interesting%20Problems)](https://github.com/HTL2910)
 
-<a href="https://HTL2910.github.io/github-repos-dashboard/"><img alt="Interactive Dashboard" src="https://img.shields.io/badge/Interactive_Dashboard-2563EB?style=for-the-badge&logo=githubpages&logoColor=white"></a> <a href="https://hathanhlong2910.itch.io"><img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a> <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HTL2910&style=for-the-badge&color=6d28d9&label=VIEWS">
+<a href="https://htl2910.github.io/github-repos-dashboard/"><img alt="Interactive Dashboard" src="https://img.shields.io/badge/Interactive_Dashboard-2563EB?style=for-the-badge&logo=githubpages&logoColor=white"></a> <a href="https://hathanhlong2910.itch.io"><img alt="Itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"></a> <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=HTL2910&style=for-the-badge&color=6d28d9&label=VIEWS">
 
 <sub>📦 78 repos (43 public · 35 private) &nbsp;·&nbsp; 🕒 Synced 2026-11-27</sub>
 
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About & Focus
 
-Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **🌐 Web / Frontend** (6). Explore the full searchable catalog, charts, and interactive Knowledge Graph on the **[Web Dashboard](https://HTL2910.github.io/github-repos-dashboard/)**.
+Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **🌐 Web / Frontend** (6). Explore the full searchable catalog, charts, and interactive Knowledge Graph on the **[Web Dashboard](https://htl2910.github.io/github-repos-dashboard/)**.
 
 | Domain | Public Repos | Share |
 |--------|-------------:|-------|
@@ -22,6 +22,37 @@ Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **�
 | 🤖 AI / ML | **14** | `████░░░░░░░░` 33% |
 | 🌐 Web / Frontend | **6** | `██░░░░░░░░░░` 14% |
 | 📁 Other | **2** | `█░░░░░░░░░░░` 5% |
+
+### 🗺️ Ecosystem Map
+
+```mermaid
+flowchart LR
+    DEV(["Hà Thành Long · 43 Public · 35 Private"])
+    subgraph DOMAINS["Focus Domains"]
+        D1["Unity / Game · 21"]
+        D2["AI / ML · 14"]
+        D3["Web / Frontend · 6"]
+    end
+    subgraph STACK["Top Languages"]
+        L1["C# · 9"]
+        L2["Python · 10"]
+        L3["JavaScript · 5"]
+    end
+    subgraph PROJECTS["Latest Highlights"]
+        P1["FPS-Zombie-Suong-Mu"]
+        P2["OCR-Text-In-Vcam"]
+        P3["github-repos-dashboard"]
+    end
+    DEV --> D1
+    DEV --> D2
+    DEV --> D3
+    D1 --> L1
+    D2 --> L2
+    D3 --> L3
+    D1 -.-> P1
+    D2 -.-> P2
+    D3 -.-> P3
+```
 
 ### 🛠️ Tech Stack & Domains
 
@@ -41,6 +72,7 @@ Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **�
 
 | Project | Category | Language | Highlights | Updated |
 |---------|----------|----------|------------|---------|
+| [**github-repos-dashboard**](https://github.com/HTL2910/github-repos-dashboard) ⭐ 1 | 🌐 Web / Frontend | `HTML` | Automated overview & manager for all personal GitHub repositories. Helps the owner and… | `2026-11-27` |
 | [**social-flow-extension**](https://github.com/HTL2910/social-flow-extension) | 🌐 Web / Frontend | `JavaScript` | Social Flow - Chrome/Edge extension for automated page scrolling and configurable… | `2026-11-26` |
 | [**shopee-category-crawler**](https://github.com/HTL2910/shopee-category-crawler) | 🌐 Web / Frontend | `JavaScript` | Chrome extension to crawl multiple Shopee categories with pagination, saved progress… | `2026-11-26` |
 | [**page-harvest**](https://github.com/HTL2910/page-harvest) | 🌐 Web / Frontend | `JavaScript` | Page Harvest - Chrome/Edge extension to select repeating web items or tables and export… | `2026-11-26` |
@@ -50,9 +82,8 @@ Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **�
 | [**muse-3-vn-realtime-voice-agent**](https://github.com/HTL2910/muse-3-vn-realtime-voice-agent) | 🤖 AI / ML | `Python` | MuseAssistantTeam #3: vn-realtime-voice-agent — AI trợ lý giọng nói realtime trả lời… | `2026-11-22` |
 | [**muse-1-vn-address-autofill**](https://github.com/HTL2910/muse-1-vn-address-autofill) | 🤖 AI / ML | `Python` | Muse Company · nhiệm vụ #1: tôi có một bài toán như này : một cửa hàng bán đồ tiêu dùng… | `2026-11-22` |
 | [**muse-2-multi-account-video-stats**](https://github.com/HTL2910/muse-2-multi-account-video-stats) | 🤖 AI / ML | `Python` | MuseAssistantTeam · #2: multi-account-video-stats — hệ thống quản lý account facebook và… | `2026-11-22` |
-| [**laya_address_vn**](https://github.com/HTL2910/laya_address_vn) | 🤖 AI / ML | `Python` | Laya Address VN: Browser ONNX & CPU Backend Vietnamese Address Sufficiency Gates (v1… | `2026-11-22` |
 
-<sub>👉 <a href="https://HTL2910.github.io/github-repos-dashboard/">Explore all 43 public repos, charts &amp; interactive Knowledge Graph on the Web Dashboard</a></sub>
+<sub>👉 <a href="https://htl2910.github.io/github-repos-dashboard/">Explore all 43 public repos, charts &amp; interactive Knowledge Graph on the Web Dashboard</a></sub>
 
 ### 🔒 Private Projects (35)
 
@@ -97,12 +128,12 @@ Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **�
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611270954"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611270954"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611270954" height="175"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611270954"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611270954"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611270954" height="175"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611271007"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611271007"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611271007" height="175"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611271007"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611271007"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611271007" height="175"></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270954"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270954"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270954"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611271007"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611271007"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611271007"></picture>
 </p>
 
 ### 🐍 Contribution Activity
