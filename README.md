@@ -52,12 +52,12 @@ Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **�
 | [**muse-2-multi-account-video-stats**](https://github.com/HTL2910/muse-2-multi-account-video-stats) | 🤖 AI / ML | `Python` | MuseAssistantTeam · #2: multi-account-video-stats — hệ thống quản lý account facebook và… | `2026-11-22` |
 | [**laya_address_vn**](https://github.com/HTL2910/laya_address_vn) | 🤖 AI / ML | `Python` | Laya Address VN: Browser ONNX & CPU Backend Vietnamese Address Sufficiency Gates (v1… | `2026-11-22` |
 
-<sub>👉 <a href="https://HTL2910.github.io/github-repos-dashboard/">Xem toàn bộ 43 public repos, biểu đồ & Knowledge Graph trên Dashboard</a></sub>
+<sub>👉 <a href="https://HTL2910.github.io/github-repos-dashboard/">Explore all 43 public repos, charts &amp; interactive Knowledge Graph on the Web Dashboard</a></sub>
 
 ### 🔒 Private Projects (35)
 
-| Repo | Tác dụng |
-|------|----------|
+| Repo | Purpose |
+|------|---------|
 | **Adventure_3D** | Unity adventure 3D |
 | **AI-Gen-Image-Local** | - |
 | **ai-voice-assistant** | AI Voice Assistant for customer service |
@@ -97,12 +97,12 @@ Building software across **🎮 Unity / Game** (21), **🤖 AI / ML** (14), **�
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611270928"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611270928"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611270928" height="175"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611270928"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611270928"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611270928" height="175"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611270943"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611270943"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HTL2910&show_icons=true&include_all_commits=true&count_private=true&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&icon_color=4f46e5&cache_bust=202611270943" height="175"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611270943"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611270943"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTL2910&layout=compact&langs_count=8&theme=default&border_color=d0d7de&bg_color=ffffff&title_color=1d4ed8&cache_bust=202611270943" height="175"></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270928"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270928"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270928"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270943"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270943"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=HTL2910&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=6&cache_bust=202611270943"></picture>
 </p>
 
 ### 🐍 Contribution Activity
